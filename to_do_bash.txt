@@ -1,0 +1,51 @@
+Hello, my name is Ethan To-Do!
+I'm your personal To-Do list application.
+I can add, complete, and let you view your to-do list items.
+Let's get you registered.
+
+Input username: user1
+Input password: pass123
+Account created successfully!
+
+Please log in to continue.
+Username: user1
+Password: pass123
+Login successful!
+
+Choose an option:
+1. Add a task
+2. View tasks
+3. Complete a task
+4. Exit
+Enter your choice: 1
+Enter the task: Buy groceries
+Task 'Buy groceries' added on 2024-11-10 12:34:56
+
+Choose an option:
+1. Add a task
+2. View tasks
+3. Complete a task
+4. Exit
+Enter your choice: 2
+
+Your To-Do List:
+1. Buy groceries - Added on 2024-11-10 12:34:56
+
+Choose an option:
+1. Add a task
+2. View tasks
+3. Complete a task
+4. Exit
+Enter your choice: 3
+Your To-Do List:
+1. Buy groceries - Added on 2024-11-10 12:34:56
+Enter the task number to complete: 1
+Task 'Buy groceries' marked as completed.
+
+Choose an option:
+1. Add a task
+2. View tasks
+3. Complete a task
+4. Exit
+Enter your choice: 4
+Goodbye!
